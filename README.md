@@ -3,3 +3,5 @@ My solutions to Advent of Code 2025
 
 Containing one file for each day. 
 Separate parts are separated in the code comments. 
+
+The tasks cabe be found here: https://adventofcode.com/2025
